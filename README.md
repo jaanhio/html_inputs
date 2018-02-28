@@ -1,7 +1,9 @@
-#IMPORTANT 
+# IMPORTANT 
 
 To start, install dependencies.
 Open terminal, navigate to directory and run `yarn`. Then, run `yarn start`.
+
+---
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
